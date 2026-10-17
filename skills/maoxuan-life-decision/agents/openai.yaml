@@ -1,0 +1,6 @@
+interface:
+  display_name: "毛选人生抉择推演"
+  short_description: "用毛选的方法拆解人生选择，比较路径并设计可验证行动"
+  default_prompt: "使用 $maoxuan-life-decision 分析我的人生选择：先区分事实与判断，再找主要矛盾，比较路径，并设计可复盘的行动实验。"
+policy:
+  allow_implicit_invocation: true
